@@ -1,0 +1,12 @@
+# 脚本生成的配置里含本机绝对路径，不入库
+.vscode/
+
+# 编译产物
+build/
+*.exe
+*.o
+*.obj
+
+# Python
+__pycache__/
+*.py[cod]
